@@ -1,0 +1,37 @@
+.header{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.title{
+    background-color: lightcoral ;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding-left: 6%;
+}
+
+img{
+    height:90%;
+    width: 100%;
+}
+
+.tile{
+    font-size: larger;
+    text-align:left;
+    padding:20px;
+    margin:0px 15px 15px 15px;
+    background-color: lightgray;
+    border-left: 20px solid rgb(255, 155, 142);
+}
+
+.tile:hover{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 155, 142);
+    cursor: pointer;
+    padding: 18px;
+    
+}
+
+.author-title{
+    padding: 10px;
+}
