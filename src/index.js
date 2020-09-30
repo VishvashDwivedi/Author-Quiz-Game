@@ -4,13 +4,6 @@ import Main from "../src/main_js/AuthorQuiz"
 import * as serviceWorker from './serviceWorker';
 
 
-// let models = {  clicks:0  };
-
-//  const abc = () => {
-//    console.log("Days !");
-//  }
-
-// const obj = {  a:5 , b:6  }
 
 const render = () => {
 
